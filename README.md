@@ -56,3 +56,5 @@
     - `$and`
     - `$or`
     - `$not`
+
+  - https://www.mongodb.com/docs/manual/reference/operator/query/
